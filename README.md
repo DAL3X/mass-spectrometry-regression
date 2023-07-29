@@ -8,7 +8,7 @@ The script tracks the temperature was used to track the following substances:
 ![substances](https://github.com/DAL3X/mass-spectrometry-regression/blob/master/pictures/interest.png)
 
 After reading in the data the script will auto detect heating intervals and apply regression to each interval respectively for every substance.
-The data is saved together with the mean squared error and [r squared value](https://en.wikipedia.org/wiki/Coefficient_of_determination).
+The data is saved together with the mean squared error and [R squared value](https://en.wikipedia.org/wiki/Coefficient_of_determination).
 The regression results will also be visualized for instant feedback:
 
 ![regression](https://github.com/DAL3X/mass-spectrometry-regression/blob/master/pictures/example.png)
