@@ -3,7 +3,7 @@ A Matlab script to analyse data captured by a [OmniStar GSD 350 O](https://www.p
 It was developed as a part of scientific study about the thermal degradation of solid electrolyte interfaces (SEI) in lithium-ion batteries.
 
 # Usage and Outputs
-The script track the temperature and the following substances:
+The script tracks the temperature was used to track the following substances:
 
 ![substances](https://github.com/DAL3X/mass-spectrometry-regression/blob/master/pictures/interest.png)
 
